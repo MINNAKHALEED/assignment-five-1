@@ -1,0 +1,21 @@
+.nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  
+} 
+
+ .ul{
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+} 
+
+.li{
+  text-transform: uppercase;
+  color: #000;
+  font-size: 16px;
+  cursor: pointer;
+}
+
